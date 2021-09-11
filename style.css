@@ -1,0 +1,38 @@
+.rc-VideoItemWithHighlighting{
+    max-width: 100% !important;
+}
+
+.rc-VideoMiniPlayer{
+    display: inline-block !important;
+    width: 45% !important;
+    vertical-align: top !important;
+    margin-top: 50px !important;
+    position: absolute !important;
+}
+
+.rc-VideoMiniPlayer.mini{
+    display: inline-block !important;
+    width: 45% !important;
+    vertical-align: top !important;
+    margin-top: 50px !important;
+    position: absolute !important;
+}
+
+.rc-VideoMiniPlayer.mini .video-main-player-container{
+    right: auto !important;
+    bottom: auto !important;
+    width: 100% !important;
+    position: absolute !important;
+} 
+
+.rc-VideoMiniPlayer.mini .rc-VideoMiniControls {
+    display: none !important;
+}
+
+
+.rc-VideoHighlightingManager{
+    display: inline-block !important;
+	width: 45% !important;
+	margin-left: 55% !important;
+}
+
