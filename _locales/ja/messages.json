@@ -1,0 +1,8 @@
+{
+  "Name": {
+    "message": "2col-Coursera"
+  },
+  "Description": {
+    "message": "Courseraのビデオ講義画面を2列にし、スクリプトを読みながら講義を受けられるようにする拡張機能です。"
+  }
+}

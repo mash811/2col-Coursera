@@ -1,9 +1,10 @@
 {
-  "name": "2col-Coursera",
+  "name": "__MSG_Name__",
   "author": "mash",
-  "description": "Chrome extension to make Coursera' Video two columns. Courseraのビデオ講義画面を2カラムにし、スクリプトを読みながら講義を受けられるようにする拡張機能です。",
+  "description": "__MSG_Description__",
   "version": "1.0.0",
   "manifest_version": 2,
+  "default_locale": "en",
   "icons": {
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
@@ -20,7 +21,7 @@
   "content_scripts": [
        {
          "matches": ["https://www.coursera.org/learn/*"],
-         "css": ["style.css"]
+         "css": ["css/style.css"]
        }
   ]
 }
