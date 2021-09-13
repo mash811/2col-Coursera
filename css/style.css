@@ -19,6 +19,7 @@
 }
 
 .rc-VideoMiniPlayer.mini .video-main-player-container{
+    display: inline-block !important;
     right: auto !important;
     bottom: auto !important;
     width: 100% !important;
