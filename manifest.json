@@ -17,7 +17,7 @@
     "default_title": "2col-Coursera"
   },
   "web_accessible_resources": ["*"],
-  "permissions": ["storage"],
+  "permissions": [],
   "content_scripts": [
        {
          "matches": ["https://www.coursera.org/learn/*"],
