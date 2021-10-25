@@ -4,7 +4,8 @@
 
 .rc-VideoMiniPlayer{
     display: inline-block !important;
-    width: 45% !important;
+    width: 45% !important; 
+    max-width: 450px !important; 
     vertical-align: top !important;
     margin-top: 50px !important;
     position: absolute !important;

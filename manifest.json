@@ -2,7 +2,7 @@
   "name": "__MSG_Name__",
   "author": "mash",
   "description": "__MSG_Description__",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "default_locale": "en",
   "icons": {
